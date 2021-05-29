@@ -1,0 +1,5 @@
+version: '2'
+services:
+ cosmopolitan-nim:
+  image: marcelmaatkamp/cosmopolitan-nim
+  build: .
